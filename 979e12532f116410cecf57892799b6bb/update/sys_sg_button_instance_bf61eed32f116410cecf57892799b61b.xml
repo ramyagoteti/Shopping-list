@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Shopping Items)">3761eed32f116410cecf57892799b612</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Shopping Items)</name>
+        <order/>
+        <parent>bf61eed32f116410cecf57892799b601</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>ramya.goteti</sys_created_by>
+        <sys_created_on>2020-12-30 20:44:49</sys_created_on>
+        <sys_id>bf61eed32f116410cecf57892799b61b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Shopping Items)</sys_name>
+        <sys_package display_value="Shopping List" source="x_555063_shopping">979e12532f116410cecf57892799b6bb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">979e12532f116410cecf57892799b6bb</sys_scope>
+        <sys_update_name>sys_sg_button_instance_bf61eed32f116410cecf57892799b61b</sys_update_name>
+        <sys_updated_by>ramya.goteti</sys_updated_by>
+        <sys_updated_on>2020-12-30 20:44:49</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=bf61eed32f116410cecf57892799b61b"/>
+</record_update>

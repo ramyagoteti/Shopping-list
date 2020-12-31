@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_555063_shopping_shopping_items</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Shopping Items Form Screen">bb61eed32f116410cecf57892799b602</embedded_screen>
+        <item_view display_value="Shopping Items List Screen Item View">b361eed32f116410cecf57892799b600</item_view>
+        <name>Shopping Items master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>ramya.goteti</sys_created_by>
+        <sys_created_on>2020-12-30 20:44:49</sys_created_on>
+        <sys_id>3761eed32f116410cecf57892799b606</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shopping Items master_item</sys_name>
+        <sys_package display_value="Shopping List" source="x_555063_shopping">979e12532f116410cecf57892799b6bb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">979e12532f116410cecf57892799b6bb</sys_scope>
+        <sys_update_name>sys_sg_master_item_3761eed32f116410cecf57892799b606</sys_update_name>
+        <sys_updated_by>ramya.goteti</sys_updated_by>
+        <sys_updated_on>2020-12-30 20:44:49</sys_updated_on>
+    </sys_sg_master_item>
+</record_update>
